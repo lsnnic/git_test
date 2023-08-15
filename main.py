@@ -7,5 +7,8 @@ def master():
 def newbranch():
     return
 
+def github():
+    return
+
 
 print("HelloWorld!")
