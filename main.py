@@ -4,5 +4,8 @@ def hotfix():
 def master():
     return
 
+def newbranch():
+    return
+
 
 print("HelloWorld!")
